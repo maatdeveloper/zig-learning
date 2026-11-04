@@ -1,6 +1,6 @@
 # Zig Learning
 
-<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" width="250" height="250" class="cover" align="right"/></a>          
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" width="250" height="250" class="cover" align="right"/></a>
 
 Aqui será documentado minha evolução com a linguagem de programação **Zig**, onde irei começar dos conceitos mais fundamentais aos mais avaçados da linguagem, e não apenas resolvendo exercícios propostos pelos materiais, como também desenvolvendo projetos.
 
